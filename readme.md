@@ -15,7 +15,7 @@ Este proyecto corresponde a un Trabajo Práctico de desarrollo web utilizando HT
 - README.md
 
 ## 🌐 Sitio publicado
-🔗 https://TU-USUARIO.github.io/TU-REPOSITORIO/
+🔗 https:///github.com/carotramp/landing_page_portafolio_personal/
 
 ## ✅ Checklist
 
